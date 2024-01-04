@@ -10,7 +10,7 @@
   <summary>NIM - NAMA</summary>
   
   |No.|NIM|NAMA|
-  |:-:|:------:|:------:|:------:|
+  |:-:|:------:|:------:|
   |1. |2540120603|Nicolas Saputra Gunawan|
   |2. |2540124740|Satya Kusuma|
   |3. |2540124620|Jeffrey Jingga|
